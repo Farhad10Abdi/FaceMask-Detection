@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Frhd images</folder>
+	<filename>0035.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\Frhd images\0035.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1714</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>806</ymin>
+			<xmax>664</xmax>
+			<ymax>964</ymax>
+		</bndbox>
+	</object>
+</annotation>

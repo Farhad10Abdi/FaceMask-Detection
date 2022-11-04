@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Frhd images</folder>
+	<filename>0101.png</filename>
+	<path>C:\Users\Lenovo\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\Frhd images\0101.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>582</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>215</ymin>
+			<xmax>157</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>90</ymin>
+			<xmax>247</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>109</ymin>
+			<xmax>483</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>
